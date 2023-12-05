@@ -1,0 +1,44 @@
+{
+  "employees": [
+    {
+      "id": 1,
+      "name": "Lokesh",
+      "status": "active"
+    },
+    {
+      "id": 2,
+      "name": "Andy",
+      "status": "Inactive"
+    },
+    {
+      "id": 3,
+      "name": "Brian",
+      "status": "active"
+    },
+    {
+      "id": 4,
+      "name": "Charles",
+      "status": "Inactive"
+    },
+    {
+      "id": 5,
+      "name": "holla",
+      "status": "inactive"
+    },
+    {
+      "id": 6,
+      "name": "malak",
+      "status": "active"
+    },
+    {
+      "id": 7,
+      "name": "tes",
+      "status": "active"
+    },
+    {
+      "id": 8,
+      "name": "mlak",
+      "status": "active"
+    }
+  ]
+}
